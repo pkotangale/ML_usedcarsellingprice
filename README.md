@@ -1,4 +1,4 @@
-# machine learning project with deployment for predict sales price of used car
+# Machine learning project with deployment for predict sales price of used car
 This repository contains the complete end-to-end machine learning project. <br>
 To get this code in to your github account, feel free to fork this repository. <br><br>
 How to fork the repository ? <br>
